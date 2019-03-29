@@ -1,5 +1,6 @@
 ## Docker | nodejs app
-### docker image: docker pull theranjitkumar/mynodeapp
+
+### DOCKER IMAGE: docker pull theranjitkumar/mynodeapp
     https://hub.docker.com/r/theranjitkumar/mynodeapp 
     
 
